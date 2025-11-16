@@ -1,0 +1,11 @@
+# Ignorar dependências locais
+node_modules
+
+# Ignorar o output do build (ele será gerado dentro do container)
+dist
+
+# Ignorar arquivos do git e env
+.git
+.gitignore
+.env
+.env.local
