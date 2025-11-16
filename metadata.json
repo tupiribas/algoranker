@@ -1,0 +1,5 @@
+{
+  "name": "AlgoRanker - Visualizador de Algoritmos",
+  "description": "Uma aplicação web interativa para visualizar e entender algoritmos de ordenação e estruturas de dados. Adicione jogadores, ordene a classificação usando diferentes algoritmos e veja a análise de complexidade em tempo real.",
+  "requestFramePermissions": []
+}
