@@ -10,7 +10,7 @@ A aplicação gerencia um ranking de jogadores com base em suas pontuações e u
 *   Tupi Guedes Ribas
 
 ### Link para a Aplicação (Deploy)
-*   [Será colocado o link](URL)
+*   [https://algoranker.fly.dev/](https://algoranker.fly.dev/)
 
 ---
 

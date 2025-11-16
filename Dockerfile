@@ -28,6 +28,10 @@ RUN yarn install
 # Copia os arquivos construídos (da pasta 'dist') do estágio 'build'
 COPY --from=build /app/dist ./dist
 
+# ADICIONE ESTA LINHA:
+# Copia o arquivo de configuração para o Vite 'preview' ler
+COPY vite.config.ts ./
+
 # Expõe a porta que configuramos no script 'preview'
 EXPOSE 3000
 
